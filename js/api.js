@@ -1,5 +1,6 @@
 const URL = 'https://crud-firebase-38955-default-rtdb.firebaseio.com/clientes.json';
 
+
 // GET
 export const obtenerClientes = async () => {
   try {

@@ -23,8 +23,13 @@ nav a:hover {
   background-color: white;
   padding: 2.5rem;
   margin-top: 4rem;
+  box-shadow: 0 0 1rem rgba(0,0,0,0.5);
 }
 
 .error {
   color: red;
+}
+
+a {
+  text-decoration: none;
 }
